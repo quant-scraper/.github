@@ -6,19 +6,19 @@ Every open role at quantitative trading firms and AI companies, plus big tech's 
 
 | | Firms | Open roles |
 |---|---:|---:|
-| [Quant & Trading](https://quant-scraper.com/quant) | 53 | 3,263 |
-| [Big Tech](https://quant-scraper.com/big-tech) (students) | 56 | 2,092 |
-| [AI Companies](https://quant-scraper.com/ai) | 30 | 2,792 |
+| [Quant & Trading](https://quant-scraper.com/quant) | 53 | 3,255 |
+| [Big Tech](https://quant-scraper.com/big-tech) (students) | 56 | 2,103 |
+| [AI Companies](https://quant-scraper.com/ai) | 30 | 2,790 |
 
-<sub>Updated 2026-10-26 17:26 UTC, after the latest ingest.</sub>
+<sub>Updated 2026-10-27 02:06 UTC, after the latest ingest.</sub>
 
 ## Student role lists
 
 Open internships and graduate roles, by discipline, focus and region, regenerated after every ingest:
 
-- [Quant Internships & Graduate Roles](https://github.com/quant-scraper/Quant-Student-Roles)
-- [Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles)
-- [AI Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles)
+- [2027 Quant Internships & Graduate Roles](https://github.com/quant-scraper/Quant-Student-Roles)
+- [2027 Big Tech Internships & Graduate Roles](https://github.com/quant-scraper/Big-Tech-Student-Roles)
+- [2027 AI Internships & Graduate Roles](https://github.com/quant-scraper/AI-Student-Roles)
 
 ## Firms
 
