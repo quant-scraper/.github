@@ -7,10 +7,10 @@ Every open role at quantitative trading firms and AI companies, plus big tech's 
 | | Firms | Open roles |
 |---|---:|---:|
 | [Quant & Trading](https://quant-scraper.com/quant) | 53 | 3,257 |
-| [Big Tech](https://quant-scraper.com/big-tech) (students) | 56 | 2,096 |
-| [AI Companies](https://quant-scraper.com/ai) | 30 | 2,807 |
+| [Big Tech](https://quant-scraper.com/big-tech) (students) | 56 | 2,098 |
+| [AI Companies](https://quant-scraper.com/ai) | 31 | 2,917 |
 
-<sub>Updated 2026-10-29 02:28 UTC, after the latest ingest.</sub>
+<sub>Updated 2026-10-29 03:19 UTC, after the latest ingest.</sub>
 
 ## Student role lists
 
@@ -37,8 +37,8 @@ Open internships and graduate roles, by discipline, focus and region, regenerate
 </details>
 
 <details>
-<summary>AI Companies (30)</summary>
+<summary>AI Companies (31)</summary>
 
-[Anthropic](https://quant-scraper.com/companies/anthropic) · [Applied Intuition](https://quant-scraper.com/companies/appliedintuition) · [Baseten](https://quant-scraper.com/companies/baseten) · [Cerebras](https://quant-scraper.com/companies/cerebras) · [Cognition](https://quant-scraper.com/companies/cognition) · [Cohere](https://quant-scraper.com/companies/cohere) · [CoreWeave](https://quant-scraper.com/companies/coreweave) · [Cursor](https://quant-scraper.com/companies/cursor) · [Decagon](https://quant-scraper.com/companies/decagon) · [ElevenLabs](https://quant-scraper.com/companies/elevenlabs) · [Fireworks AI](https://quant-scraper.com/companies/fireworks) · [Google DeepMind](https://quant-scraper.com/companies/deepmind) · [Groq](https://quant-scraper.com/companies/groq) · [Hugging Face](https://quant-scraper.com/companies/huggingface) · [Lovable](https://quant-scraper.com/companies/lovable) · [Meta Superintelligence Labs](https://quant-scraper.com/companies/msl) · [Microsoft AI](https://quant-scraper.com/companies/microsoftai) · [Mistral AI](https://quant-scraper.com/companies/mistral) · [Modal](https://quant-scraper.com/companies/modal) · [OpenAI](https://quant-scraper.com/companies/openai) · [Perplexity](https://quant-scraper.com/companies/perplexity) · [Physical Intelligence](https://quant-scraper.com/companies/physicalintelligence) · [Reflection AI](https://quant-scraper.com/companies/reflection) · [Runway](https://quant-scraper.com/companies/runway) · [Safe Superintelligence](https://quant-scraper.com/companies/ssi) · [Scale AI](https://quant-scraper.com/companies/scaleai) · [Thinking Machines Lab](https://quant-scraper.com/companies/thinkingmachines) · [Together AI](https://quant-scraper.com/companies/together) · [Vercel](https://quant-scraper.com/companies/vercel) · [xAI](https://quant-scraper.com/companies/xai)
+[Anthropic](https://quant-scraper.com/companies/anthropic) · [Applied Intuition](https://quant-scraper.com/companies/appliedintuition) · [Baseten](https://quant-scraper.com/companies/baseten) · [Cerebras](https://quant-scraper.com/companies/cerebras) · [Cognition](https://quant-scraper.com/companies/cognition) · [Cohere](https://quant-scraper.com/companies/cohere) · [CoreWeave](https://quant-scraper.com/companies/coreweave) · [Cursor](https://quant-scraper.com/companies/cursor) · [Decagon](https://quant-scraper.com/companies/decagon) · [ElevenLabs](https://quant-scraper.com/companies/elevenlabs) · [Fireworks AI](https://quant-scraper.com/companies/fireworks) · [Google DeepMind](https://quant-scraper.com/companies/deepmind) · [Groq](https://quant-scraper.com/companies/groq) · [Hugging Face](https://quant-scraper.com/companies/huggingface) · [Lovable](https://quant-scraper.com/companies/lovable) · [Meta Superintelligence Labs](https://quant-scraper.com/companies/msl) · [Microsoft AI](https://quant-scraper.com/companies/microsoftai) · [Mistral AI](https://quant-scraper.com/companies/mistral) · [Modal](https://quant-scraper.com/companies/modal) · [OpenAI](https://quant-scraper.com/companies/openai) · [Perplexity](https://quant-scraper.com/companies/perplexity) · [Physical Intelligence](https://quant-scraper.com/companies/physicalintelligence) · [Reflection AI](https://quant-scraper.com/companies/reflection) · [Runway](https://quant-scraper.com/companies/runway) · [Safe Superintelligence](https://quant-scraper.com/companies/ssi) · [Scale AI](https://quant-scraper.com/companies/scaleai) · [Sierra](https://quant-scraper.com/companies/sierra) · [Thinking Machines Lab](https://quant-scraper.com/companies/thinkingmachines) · [Together AI](https://quant-scraper.com/companies/together) · [Vercel](https://quant-scraper.com/companies/vercel) · [xAI](https://quant-scraper.com/companies/xai)
 
 </details>
