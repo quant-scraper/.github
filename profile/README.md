@@ -6,11 +6,11 @@ Every open role at quantitative trading firms and AI companies, plus big tech's 
 
 | | Firms | Open roles |
 |---|---:|---:|
-| [Quant & Trading](https://quant-scraper.com/quant) | 53 | 3,257 |
-| [Big Tech](https://quant-scraper.com/big-tech) (students) | 56 | 2,120 |
-| [AI Companies](https://quant-scraper.com/ai) | 31 | 2,916 |
+| [Quant & Trading](https://quant-scraper.com/quant) | 53 | 3,256 |
+| [Big Tech](https://quant-scraper.com/big-tech) (students) | 56 | 2,108 |
+| [AI Companies](https://quant-scraper.com/ai) | 31 | 2,914 |
 
-<sub>Updated 2026-10-30 02:38 UTC, after the latest ingest.</sub>
+<sub>Updated 2026-10-30 11:25 UTC, after the latest ingest.</sub>
 
 ## Student role lists
 
